@@ -1,0 +1,17 @@
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\VCard App.exe
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\VCard App.deps.json
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\VCard App.runtimeconfig.json
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\VCard App.dll
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\VCard App.pdb
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.csproj.AssemblyReference.cache
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.AssemblyInfoInputs.cache
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.AssemblyInfo.cs
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.csproj.CoreCompileInputs.cache
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.dll
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\refint\VCard App.dll
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.pdb
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.genruntimeconfig.cache
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\ref\VCard App.dll
+C:\C#\Console\VCard App\VCard App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\Console\VCard App\VCard App\obj\Debug\net6.0\VCard App.csproj.CopyComplete

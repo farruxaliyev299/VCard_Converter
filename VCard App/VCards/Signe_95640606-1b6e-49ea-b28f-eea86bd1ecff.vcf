@@ -1,0 +1,9 @@
+BEGIN:VCARD
+ VERSION:4.0
+ FN:Signe Møller
+ N:Signe;Møller;
+ EMAIL;TYPE=work:signe.moller@example.com;
+ ADR;TYPE=home:;;Nykøbing Sj.;Denmark;
+ TEL;TYPE=cell:63633032;
+ UID:urn:uuid:Signe_95640606-1b6e-49ea-b28f-eea86bd1ecff;
+ END:VCARD

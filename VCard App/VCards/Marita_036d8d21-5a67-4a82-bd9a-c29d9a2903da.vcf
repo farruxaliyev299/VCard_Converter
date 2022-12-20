@@ -1,0 +1,9 @@
+BEGIN:VCARD
+ VERSION:4.0
+ FN:Marita Bauer
+ N:Marita;Bauer;
+ EMAIL;TYPE=work:marita.bauer@example.com;
+ ADR;TYPE=home:;;Lüdinghausen;Germany;
+ TEL;TYPE=cell:0414-9872551;
+ UID:urn:uuid:Marita_036d8d21-5a67-4a82-bd9a-c29d9a2903da;
+ END:VCARD
